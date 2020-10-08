@@ -1,0 +1,14 @@
+.navigation-bar {
+    font-size: 25px;
+    padding: 30px 10%;
+}
+
+.navigation-bar_name {
+    font-size: 30px;
+}
+
+@media only screen and (min-width: 768px) {
+    .navigation-bar {
+        padding: 30px 25%;
+    }
+  }

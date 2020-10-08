@@ -1,0 +1,23 @@
+.bio {
+    padding: 30px 5%;
+    background-color: white;
+    font-size: 20px;
+}
+
+.bio-foto {
+    float: left;
+    margin: 10px 20px;
+}
+
+p {
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+}
+@media only screen and (min-width: 1024px) {
+    .bio {
+        padding: 30px 25%;
+    }
+  }
